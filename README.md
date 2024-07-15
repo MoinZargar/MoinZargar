@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/moin-zargar-0a971a247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://leetcode.com/u/Moin_Zargar/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
     <a href="https://github.com/MoinZargar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/moinzargar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/moinzargar/" height="30" width="40" /></a>
+   <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/moinzargar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/moinzargar/" height="30" width="40" /></a>
   </p>
 
   <!-- Skills -->
