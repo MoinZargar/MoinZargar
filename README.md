@@ -38,7 +38,7 @@
           <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
         </div>
       </td>
-      <td valign="top" width="40%">
+      <td valign="top" width="100%%">
         <h4 align="center" style="color: #58a6ff;">Tools</h4>
         <div align="center">
           <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
