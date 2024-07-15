@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/moin-zargar-0a971a247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://leetcode.com/u/Moin_Zargar/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
     <a href="https://github.com/MoinZargar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-   <a href="https://auth.geeksforgeeks.org/user/moin_zargar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="moin_zargar" height="30" width="40" /></a>
+   
   </p>
 
   <!-- Skills -->
@@ -49,9 +49,8 @@
     </tr>
   </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MoinZargar&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MoinZargar&theme=dark&hide_border=true)<br/>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoinZargar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
