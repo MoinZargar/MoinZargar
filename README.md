@@ -8,9 +8,10 @@
   <!-- Connect with me -->
   <h3 align="left" style="color: #c9d1d9;">Connect with me:</h3>
   <p align="left">
-    <a href="https://www.linkedin.com/in/moin-zargar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.leetcode.com/moin_zargar" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-    <a href="https://github.com/moinzargar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/moin-zargar-0a971a247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://leetcode.com/u/Moin_Zargar/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+    <a href="https://github.com/MoinZargar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.geeksforgeeks.org/user/moinzargar/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fgeeksforgeeksacetamritsar%2F&psig=AOvVaw1Db57AHH__NZ71TtxARmZa&ust=1721115031524000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjvjc7DqIcDFQAAAAAdAAAAABAJ" alt="GeeksforGeeks"></a>
   </p>
 
   <!-- Skills -->
@@ -47,7 +48,7 @@
       </td>
     </tr>
   </table>
-![MoinZargar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoinZargar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 
 </div>
