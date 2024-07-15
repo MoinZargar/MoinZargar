@@ -3,7 +3,7 @@
 
   <!-- Header -->
   <h1 align="center" style="color: #c9d1d9;">Hi 👋, I'm Moin Zargar</h1>
-  <h3 align="center" style="color: #c9d1d9;">Passionate Software Engineer | Deep Learning Enthusiast</h3>
+  <h3 align="center" style="color: #c9d1d9;"> Full-time full-stack web developer </h3>
 
   <!-- Connect with me -->
   <h3 align="left" style="color: #c9d1d9;">Connect with me:</h3>
@@ -15,41 +15,27 @@
 
   <!-- Skills -->
   <h3 align="left" style="color: #c9d1d9;">Skills and Tools:</h3>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </p>
-
-  <!-- Projects -->
-  <h3 align="left" style="color: #c9d1d9;">Projects:</h3>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li>
-      <h4 style="color: #58a6ff;">Kashmiri Dictionary</h4>
-      <p>An interactive English to Kashmiri dictionary with word translation, "Word of the Day," and a curated poetry collection.</p>
-    </li>
-    <li>
-      <h4 style="color: #58a6ff;">Network Simulator</h4>
-      <p>An Object-Oriented Programming based network simulator featuring functionalities across the OSI model's layers.</p>
-    </li>
-    <!-- Add more projects as needed -->
-  </ul>
+  <div style="display: flex; flex-wrap: wrap;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" style="margin: 5px;">
+  </div>
 
   <!-- Contributions -->
   <h3 align="left" style="color: #c9d1d9;">GitHub Contributions:</h3>
-  <p align="left">
-    Contributed to open source projects and personal repositories, showcasing continuous learning and development.
+  <p align="left" style="color: #c9d1d9;">
+    Contributed to open-source projects and personal repositories, showcasing continuous learning and development.
   </p>
 
 </div>
