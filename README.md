@@ -17,7 +17,7 @@
   <h3 align="left" style="color: #c9d1d9;">Skills and Tools:</h3>
   <table>
     <tr>
-      <td valign="top" width="33%">
+      <td valign="top" width="40%">
         <h4 align="center" style="color: #58a6ff;">Frontend</h4>
         <div align="center">
           <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
@@ -28,7 +28,7 @@
           <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
         </div>
       </td>
-      <td valign="top" width="33%">
+      <td valign="top" width="40%">
         <h4 align="center" style="color: #58a6ff;">Backend</h4>
         <div align="center">
           <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
@@ -38,7 +38,7 @@
           <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
         </div>
       </td>
-      <td valign="top" width="33%">
+      <td valign="top" width="40%">
         <h4 align="center" style="color: #58a6ff;">Tools</h4>
         <div align="center">
           <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
@@ -48,10 +48,6 @@
     </tr>
   </table>
 
-  <!-- GitHub Contributions -->
-  <h3 align="left" style="color: #c9d1d9;">GitHub Contributions:</h3>
-  <p align="left" style="color: #c9d1d9;">
-    Contributed to open-source projects and personal repositories, showcasing continuous learning and development.
-  </p>
+
 
 </div>
