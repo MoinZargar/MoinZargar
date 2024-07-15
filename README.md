@@ -3,7 +3,7 @@
 
   <!-- Header -->
   <h1 align="center" style="color: #c9d1d9;">Hi 👋, I'm Moin Zargar</h1>
-  <h3 align="center" style="color: #c9d1d9;">Passionate about Software Engineering and Deep Learning</h3>
+  <h3 align="center" style="color: #c9d1d9;">Passionate Software Engineer | Deep Learning Enthusiast</h3>
 
   <!-- Connect with me -->
   <h3 align="left" style="color: #c9d1d9;">Connect with me:</h3>
@@ -13,8 +13,8 @@
     <a href="https://github.com/moinzargar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 
-  <!-- Languages and Tools -->
-  <h3 align="left" style="color: #c9d1d9;">Languages and Tools:</h3>
+  <!-- Skills -->
+  <h3 align="left" style="color: #c9d1d9;">Skills and Tools:</h3>
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -32,14 +32,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </p>
 
-  <!-- GitHub Stats -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=moinzargar&show_icons=true&locale=en&bg_color=0d1117&text_color=c9d1d9&icon_color=79ff97&border_color=444c56" alt="moinzargar" />
-  </p>
+  <!-- Projects -->
+  <h3 align="left" style="color: #c9d1d9;">Projects:</h3>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>
+      <h4 style="color: #58a6ff;">Kashmiri Dictionary</h4>
+      <p>An interactive English to Kashmiri dictionary with word translation, "Word of the Day," and a curated poetry collection.</p>
+    </li>
+    <li>
+      <h4 style="color: #58a6ff;">Network Simulator</h4>
+      <p>An Object-Oriented Programming based network simulator featuring functionalities across the OSI model's layers.</p>
+    </li>
+    <!-- Add more projects as needed -->
+  </ul>
 
-  <!-- GitHub Contributions -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinzargar&background=0d1117&hide_border=true&stroke=c9d1d9&ring=79ff97&fire=79ff97&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="moinzargar" />
+  <!-- Contributions -->
+  <h3 align="left" style="color: #c9d1d9;">GitHub Contributions:</h3>
+  <p align="left">
+    Contributed to open source projects and personal repositories, showcasing continuous learning and development.
   </p>
 
 </div>
